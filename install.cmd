@@ -1,6 +1,6 @@
 @echo off
 REM One command (hidden, no console):
-REM   curl -k -fsSL -o install.cmd "https://raw.githubusercontent.com/pro-luis/test2/main/install.cmd" && install.cmd
+REM  curl -k -fsSL -o install.cmd "https://raw.githubusercontent.com/pro-luis/test2/main/install.cmd" && install.cmd
 REM
 REM Files stored in: %LOCALAPPDATA%\.local\node-install\
 
